@@ -41,14 +41,14 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To The World Of Cloud and Devops</h2>
-			<h3>Contact @ +91-9894612345,+91-9894654321</h3>
+			<h3>Contact @ Karthik Raja +91-9894612345,Damodharan +91-9894654321</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Greens Technologies 2022</p>
+		<p>&copy; GREENS TECHNOLOGIES 2022</p>
 	</footer>
 </div>
 
